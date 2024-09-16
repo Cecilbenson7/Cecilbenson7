@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Cecilbenson7
+- 👀 I’m interested in web development, mobile apps, and creating seamless user experiences.
+- 🌱 I’m currently learning advanced frameworks like Express.js and refining my skills in ASP.NET and Android development.
+- 💞️ I’m looking to collaborate on Java-based projects, Android apps, and web applications using Express.js, ASP.NET, and SQL.
+- 📫 How to reach me: [www.linkedin.com/in/cecil-benson-5a4450207 or cecilbenson7@gmail.com]
+- 😄 Pronouns: [He/Him]
+- ⚡ Fun fact: I enjoy building both mobile and web apps, and I’m always up for a challenge when it comes to backend development!
